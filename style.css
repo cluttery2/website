@@ -1,0 +1,9 @@
+body {
+  background-color: purple;
+  color: white;
+  text-align: center;
+}
+
+h1, h2 {
+  color: yellow;
+}
